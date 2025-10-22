@@ -1,4 +1,4 @@
-# **Práctica 9 de la unidad 3**
+# **Práctica 9 Unidad 3 - Uso de SHAP**
 
 En esta práctica estudiaremos cómo podemos usar los **valores SHAP** generados por un modelo en un set de datos determinado.
 
